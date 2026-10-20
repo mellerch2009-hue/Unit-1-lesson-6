@@ -1,0 +1,6 @@
+{
+  "name": "Country Information File - English for Libya Primary 5",
+  "description": "Interactive learning app for English for Libya Primary 5 (Unit 1, Lesson 6: Country Information File). Explore England and India with Jake and Tanvi, 3D landmarks, audio pronunciation, quizzes, and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
